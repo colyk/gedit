@@ -1,0 +1,6 @@
+.idea
+
+/dist/
+/gedit.egg-info/
+/build/
+/gedit/cache/cache/
